@@ -1,0 +1,18 @@
+{
+  "scripts": {
+  "start": "node src/index.js",
+  "dev": "nodemon src/index.js"
+},
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
