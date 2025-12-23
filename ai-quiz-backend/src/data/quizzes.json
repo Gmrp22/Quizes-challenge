@@ -1,0 +1,44 @@
+[
+  {
+    "id": "quiz-1",
+    "title": "AI Basics",
+    "description": "Test your AI fundamentals knowledge.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What does AI stand for?",
+        "options": ["Artificial Intelligence", "Automated Input", "Analog Interface", "All Inclusive"],
+        "correctAnswer": 0,
+        "explanation": "AI stands for Artificial Intelligence."
+      }
+    ]
+  },
+  {
+    "id": "quiz-2",
+    "title": "Prompt Engineering",
+    "description": "Test your prompt engineering knowledge.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is a prompt in AI?",
+        "options": ["A user input to AI", "A system error", "A programming language", "A data set"],
+        "correctAnswer": 0,
+        "explanation": "A prompt is a user input given to an AI model to generate output."
+      }
+    ]
+  },
+  {
+    "id": "quiz-3",
+    "title": "Workflow Automation",
+    "description": "Test your knowledge on automating tasks with AI.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which tool is used for automating workflows?",
+        "options": ["Zapier", "Photoshop", "Excel", "Slack"],
+        "correctAnswer": 0,
+        "explanation": "Zapier is a tool for automating workflows."
+      }
+    ]
+  }
+]
