@@ -7,9 +7,62 @@
       {
         "id": 1,
         "question": "What does AI stand for?",
-        "options": ["Artificial Intelligence", "Automated Input", "Analog Interface", "All Inclusive"],
+        "options": [
+          "Artificial Intelligence",
+          "Automated Input",
+          "Analog Interface",
+          "All Inclusive"
+        ],
         "correctAnswer": 0,
         "explanation": "AI stands for Artificial Intelligence."
+      },
+      {
+        "id": 2,
+        "question": "Which of the following is a type of AI?",
+        "options": [
+          "Narrow AI",
+          "General AI",
+          "Superintelligent AI",
+          "All of the above"
+        ],
+        "correctAnswer": 3,
+        "explanation": "There are several types of AI including Narrow, General, and Superintelligent AI."
+      },
+      {
+        "id": 3,
+        "question": "Who is considered the father of AI?",
+        "options": [
+          "Alan Turing",
+          "Elon Musk",
+          "Geoffrey Hinton",
+          "John McCarthy"
+        ],
+        "correctAnswer": 3,
+        "explanation": "John McCarthy coined the term 'Artificial Intelligence' and is considered its father."
+      },
+      {
+        "id": 4,
+        "question": "Which of these is a common application of AI?",
+        "options": [
+          "Self-driving cars",
+          "Spam email filtering",
+          "Voice assistants",
+          "All of the above"
+        ],
+        "correctAnswer": 3,
+        "explanation": "AI is widely used in self-driving cars, spam filters, voice assistants, and more."
+      },
+      {
+        "id": 5,
+        "question": "Which branch of AI deals with learning from data?",
+        "options": [
+          "Machine Learning",
+          "Robotics",
+          "Natural Language Processing",
+          "Computer Vision"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Machine Learning is the branch of AI that focuses on learning patterns from data."
       }
     ]
   },
@@ -21,9 +74,62 @@
       {
         "id": 1,
         "question": "What is a prompt in AI?",
-        "options": ["A user input to AI", "A system error", "A programming language", "A data set"],
+        "options": [
+          "A user input to AI",
+          "A system error",
+          "A programming language",
+          "A data set"
+        ],
         "correctAnswer": 0,
         "explanation": "A prompt is a user input given to an AI model to generate output."
+      },
+      {
+        "id": 2,
+        "question": "Why is prompt clarity important?",
+        "options": [
+          "It reduces AI response time",
+          "It improves the relevance of AI output",
+          "It makes the AI run faster",
+          "It is not important"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Clear prompts help the AI understand the user request and produce accurate responses."
+      },
+      {
+        "id": 3,
+        "question": "Which prompt style is best for detailed answers?",
+        "options": [
+          "Open-ended prompts",
+          "Yes/No prompts",
+          "Single-word prompts",
+          "Random prompts"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Open-ended prompts encourage AI to generate detailed and informative responses."
+      },
+      {
+        "id": 4,
+        "question": "What does prompt engineering aim to improve?",
+        "options": [
+          "AI accuracy",
+          "User experience",
+          "AI relevance",
+          "All of the above"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Prompt engineering improves AI accuracy, relevance, and overall user experience."
+      },
+      {
+        "id": 5,
+        "question": "Which of these is NOT part of prompt engineering?",
+        "options": [
+          "Designing input prompts",
+          "Optimizing AI responses",
+          "Training the AI model from scratch",
+          "Formatting output"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Prompt engineering focuses on crafting input prompts and formatting output, not training models from scratch."
       }
     ]
   },
@@ -35,9 +141,129 @@
       {
         "id": 1,
         "question": "Which tool is used for automating workflows?",
-        "options": ["Zapier", "Photoshop", "Excel", "Slack"],
+        "options": [
+          "Zapier",
+          "Photoshop",
+          "Excel",
+          "Slack"
+        ],
         "correctAnswer": 0,
         "explanation": "Zapier is a tool for automating workflows."
+      },
+      {
+        "id": 2,
+        "question": "What is workflow automation primarily used for?",
+        "options": [
+          "Reducing manual effort",
+          "Increasing efficiency",
+          "Minimizing errors",
+          "All of the above"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Workflow automation reduces manual work, increases efficiency, and minimizes errors."
+      },
+      {
+        "id": 3,
+        "question": "Which type of AI can help automate email responses?",
+        "options": [
+          "Natural Language Processing",
+          "Computer Vision",
+          "Robotics",
+          "Machine Vision"
+        ],
+        "correctAnswer": 0,
+        "explanation": "NLP enables AI to understand and generate human-like text for automated responses."
+      },
+      {
+        "id": 4,
+        "question": "What is a common trigger in workflow automation?",
+        "options": [
+          "Receiving an email",
+          "Form submission",
+          "Scheduled time",
+          "All of the above"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Triggers like email received, form submission, or scheduled times can start automated workflows."
+      },
+      {
+        "id": 5,
+        "question": "Which of these is NOT a workflow automation tool?",
+        "options": [
+          "Zapier",
+          "Integromat",
+          "Photoshop",
+          "Microsoft Power Automate"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Photoshop is a design tool, not a workflow automation platform."
+      }
+    ]
+  },
+  {
+    "id": "quiz-4",
+    "title": "Updated Quiz",
+    "description": "Updated description",
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is AI?",
+        "options": [
+          "Artificial Intelligence",
+          "Automated Input",
+          "Analog Interface",
+          "All Inclusive"
+        ],
+        "correctAnswer": 0,
+        "explanation": "AI stands for Artificial Intelligence."
+      },
+      {
+        "id": 2,
+        "question": "Which AI branch deals with language?",
+        "options": [
+          "Machine Learning",
+          "Natural Language Processing",
+          "Computer Vision",
+          "Robotics"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Natural Language Processing deals with AI understanding and generating language."
+      },
+      {
+        "id": 3,
+        "question": "Which AI branch focuses on images?",
+        "options": [
+          "Machine Learning",
+          "Computer Vision",
+          "Robotics",
+          "NLP"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Computer Vision enables AI to interpret and process images and videos."
+      },
+      {
+        "id": 4,
+        "question": "Which AI branch teaches machines to perform tasks by example?",
+        "options": [
+          "Machine Learning",
+          "Deep Learning",
+          "Robotics",
+          "NLP"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Machine Learning teaches AI to perform tasks by learning from examples."
+      },
+      {
+        "id": 5,
+        "question": "Which of these is an example of AI application?",
+        "options": [
+          "Chatbots",
+          "Recommendation Systems",
+          "Self-driving cars",
+          "All of the above"
+        ],
+        "correctAnswer": 3,
+        "explanation": "AI is applied in chatbots, recommendation engines, self-driving cars, and more."
       }
     ]
   }
